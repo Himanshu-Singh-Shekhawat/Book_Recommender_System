@@ -36,4 +36,3 @@ This algorithm is very effective but takes a lot of time and resources.
 Hybrid Filtering (Content Filtering + Collaborative Filtering):
 
 Both Content Filtering & Collaborative Filtering is used for the purpose. you-tube uses this algorithm for their strong recommendation system.
-
