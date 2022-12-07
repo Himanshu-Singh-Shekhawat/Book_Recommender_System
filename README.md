@@ -8,8 +8,7 @@ Mainly two approaches used in collaborative filtering :-
    1 - User based nearest-neighbour collaborative filtering.
    
    2 - Item based nearest-neighbour collaborative filtering.
-   
-   
+     
    A recommender system, or a recommendation system, is a subclass of information filtering system that seeks to predict the "rating" or "preference" a user 
 would give to an item. They are primarily used in commercial applications. (source - Wikipedia)
 
